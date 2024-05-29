@@ -1,0 +1,6 @@
+# Ignore input and output files
+input/
+output/
+
+# Environments
+venv/
